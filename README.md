@@ -72,6 +72,6 @@ Examples:
 
 		$ rm ~/Documents/Enpass/.store_decline
 
-5. Dsiplay all known items about an entry:
+5. Display all known items about an entry:
 
 		$ pass list -a Chikoo
